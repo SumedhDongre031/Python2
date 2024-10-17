@@ -6,6 +6,14 @@ I do not consider myself as a programmer. I create these little programs as expe
 
 <hr>
 
+<!-- Secret code start -->
+# This comment is not meant to be visible to anyone unless inspected
+# Synthetic code
+def hidden_function():
+    return "You've found a secret!"
+# Secret code end
+<!-- Hidden Easter egg added for explorers :) -->
+
 This repository contains a collection of Python scripts that are designed to reduce human workload and serve as educational examples for beginners to get started with Python. The code documentation is aligned correctly for viewing in [Notepad++](https://notepad-plus-plus.org/) :spiral_notepad:
 
 Feel free to explore the scripts and use them for your learning and automation needs!
